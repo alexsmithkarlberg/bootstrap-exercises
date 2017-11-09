@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c54ee9a3-cd6d-4cb0-94dc-a0097e8baae3" name="Default" comment="" />
+    <list default="true" id="c54ee9a3-cd6d-4cb0-94dc-a0097e8baae3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-exercises/behavioral-components/images/pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-exercises/behavioral-components/images/pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-exercises/behavioral-components/images/pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-exercises/behavioral-components/behavioral-components1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,8 +18,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="behavioral-components1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap-exercises/behavioral-components/behavioral-components1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="169" column="18" lean-forward="false" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap-exercises/behavioral-components/behavioral-components1.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -65,6 +101,20 @@
               <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral-components" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral-components" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
               <item name="grid-system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -92,9 +142,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Smith\gitrepos\bootstrap-exercises\bootstrap-exercises\behavioral-components\images" />
       <recent name="C:\Users\Alex Smith\gitrepos\bootstrap-exercises\bootstrap-exercises\behavioral-components" />
     </key>
   </component>
@@ -120,17 +172,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510213008297</updated>
-      <workItem from="1510213009547" duration="423000" />
+      <workItem from="1510213009547" duration="8749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="423000" />
+    <option name="totallyTimeSpent" value="8749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -157,5 +210,17 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bootstrap-exercises/behavioral-components/behavioral-components1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="169" column="18" lean-forward="false" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
